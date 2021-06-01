@@ -1,0 +1,8 @@
+
+7
+main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
+;
+readjson.py,b\a\ba4053ea7989996c8a7743de5a5bdf73a6ee6e97
+:
+
+weather.py,d\9\d999e9b00284c0573a09eb1b6b7021ec73203834
